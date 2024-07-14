@@ -1,0 +1,17 @@
+{
+    "description": "Project profile",
+
+    "domain": "is-cool.dev",
+    "subdomain": "*.phikanate",
+
+    "owner": {
+        "repo": "https://github.com/zyst-spec/domains",
+        "email": "phikanatekung@gmail.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1"]
+    },
+
+    "proxied": false
+}
